@@ -2,7 +2,7 @@
 
 ## Indledning
 
-Arkitektur er en central del af digitalisering. Det gælder både på det brede virksomhedsperspektiv, hvor det gælder om at skabe god og tværgående it-understøttelse af den samlede forretning/forvaltning – og når man ser på det enkelte projekt, hvor det gælder om at skabe en optimal løsning indenfor det konkrete scope.
+Arkitektur er en central del af digitalisering. Det gælder både på det brede virksomhedsperspektiv, hvor det gælder om at skabe god og tværgående it-understøttelse af den samlede forretning/forvaltning, og når man ser på det enkelte projekt, hvor det gælder om at skabe en optimal løsning indenfor det konkrete scope.
 
 Arkitekturarbejdet har således både til formål at sikre et fornuftigt design af en given løsning, samtidig med at det skal sikre sammenhæng til andre relevante løsninger. Dokumentation skal understøtte dialog mellem forretning og it, mellem kunde og leverandør, samt mellem projektets interessenter – og dermed også koordinering på tværs af projekter og løsninger. Desuden skal en del af dokumentationen understøtte den efterfølgende drift, vedligeholdelse og videreudvikling af løsningen.
 
