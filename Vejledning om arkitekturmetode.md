@@ -34,7 +34,8 @@ Målgruppen for vejledningen er personer, der på forhånd har kendskab til TOGA
 
 Vejledningen udspringer af Hvidbogens arkitekturregler 1.3 om anvendelse af fælles ramme for beskrivelse af arkitektur, og herunder mere specifikt _Retningslinjer for formidling og dokumentation af arkitektur i digitaliseringsprojekter_ (i det følgende benævnt [_Retningslinjer om arkitekturdokumentation_](https://arkitektur.digst.dk/node/563)), på lige fod med en række andre vejledninger og regler for begrebs- og datamodellering (se Figur 1).
 
-![Figur 0.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-arkitekturmetode\assets\Figur%200.png)
+![Figur0.png](assets/Figur0.png)
+
 
 Figur 0: Sammenhæng mellem tre af hvidbogens arkitekturregler til side- og underordnede dokumenter
 
