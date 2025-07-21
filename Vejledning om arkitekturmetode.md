@@ -34,7 +34,7 @@ Målgruppen for vejledningen er personer, der på forhånd har kendskab til TOGA
 
 Vejledningen udspringer af Hvidbogens arkitekturregler 1.3 om anvendelse af fælles ramme for beskrivelse af arkitektur, og herunder mere specifikt _Retningslinjer for formidling og dokumentation af arkitektur i digitaliseringsprojekter_ (i det følgende benævnt [_Retningslinjer om arkitekturdokumentation_](https://arkitektur.digst.dk/node/563)), på lige fod med en række andre vejledninger og regler for begrebs- og datamodellering (se Figur 1).
 
-![Figur0.png](assets/Figur0.png)
+![Figur0_Sammenhæng_mellem_tre_af_hvidbogens_arkitekturregler_til_side_og_underordnede_dokumenter.svg](assets/Figur0_Sammenhæng_mellem_tre_af_hvidbogens_arkitekturregler_til_side_og_underordnede_dokumenter.svg)
 
 
 Figur 0: Sammenhæng mellem tre af hvidbogens arkitekturregler til side- og underordnede dokumenter
@@ -73,7 +73,7 @@ TOGAF-standarden består af fem hovedelementer:
 
 En hel central del af TOGAF er Architecture Development Methods (ADM), som er en arkitekturudviklingsmetode med en trinvis og iterativ tilgang til at udvikle og styre arkitekturarbejdet (Se Figur 1). Det skal understreges, at TOGAF både kan anvendes sammen med projekt- og udviklingsmetoder, der er agile og vandfaldsorienterede – det er altid op til en lokal tilpasning af metodeanvendelsen.
 
-![Figur1.gif](assets/Figur1.gif)
+![Figur1.Figur1_TOGAF_Architecture_Development_Method_(ADM).svg](assets/Figur1_TOGAF_Architecture_Development_Method_(ADM).svg)
 
 Figur 1 TOGAF Architecture Development Method (ADM)
 
