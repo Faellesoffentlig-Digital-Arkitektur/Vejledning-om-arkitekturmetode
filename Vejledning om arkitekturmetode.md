@@ -167,7 +167,7 @@ Dette afsnit beskriver, hvordan arkitekturarbejdet efter TOGAF ADM kan passes sa
 
 TOGAF ADM dækker ind over en række domæner, som illustreret i Figur 10. Så selvom TOGAF ADM hverken er en ren metode til projektstyring, løsningsudvikling eller drift, så har TOGAF ADM-elementer af det hele.
 
-![Figur10.png](assets/Figur10.png)
+![Figur10_Styringsmetoder_som_arkitekturmetoden_er_en_delmængde_af.svg](assets/Figur10_Styringsmetoder_som_arkitekturmetoden_er_en_delmængde_af.svg)
 
 Figur 10 Styringsmetoder som arkitekturmetoden er en delmængde af
 
@@ -187,13 +187,13 @@ Figur 11 PRINCE2-projektmodellens faser
 
 Efter at have fastlagt forventninger, mål og rammer for projektet, er projektets primære opgave at udvikle en eller flere leverancer. Efter den sidste leveringsfase, afsluttes projektet. Gevinstrealiseringen sker efter levering af de kravstillede leverancer, hvilket fremgår tydeligere i Statens it-projektmodel, illustreret i Figur 12.
 
-![Figur12.png](assets/Figur12.png)
+![Figur12_Statens_it_projektmodel.svg](assets/Figur12_Statens_it_projektmodel.svg)
 
 Figur 12 Statens it-projektmodel
 
 Der kan laves en overordnet sammenstilling af Statens it-projektmodel og TOGAF ADM, som illustreret i Figur 13. Som nævnt i afsnittet _Architecture Development Methods (ADM)__,_ bør de enkelte ADM-faser og deres aktiviteter ses som temaer, som bør overvejes i et hvert digitaliseringsprojekt. De enkelte fokusområder og aktiviteter skal derfor kobles til de generelle projektaktiviteter, som kræves af den anvendte projektmetode.
 
-![Figur13.png](assets/Figur13.png)
+![Figur13_Overordnet_sammenstilling_af_Statens_it_projektmodel_og_TOGAF_ADM.svg](assets/Figur13_Overordnet_sammenstilling_af_Statens_it_projektmodel_og_TOGAF_ADM.svg)
 
 Figur 13 Overordnet sammenstilling af Statens it-projektmodel og TOGAF ADM
 
