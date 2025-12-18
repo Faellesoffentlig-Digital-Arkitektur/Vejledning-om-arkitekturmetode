@@ -175,7 +175,7 @@ Figuren viser, at arkitekturarbejdet indgår i både projektstyringen, løsnings
 
 #### Projektmodeller
 
-Der tages i afsnittet udgangspunkt i projektmodellen PRINCE2, som de fleste offentlige it-projektmodeller er afarter af – herunder [Statens it-projektmodel](https://digst.dk/styring/projektstyring/statens-it-projektmodel/kom-i-gang-med-it-projektmodellen/) og flertallet af de kommunale projektmodeller. TOGAF bør dog også kunne tilpasses andre typer projektmodeller. Sammenstillingen af PRINCE2 og TOGAF ADM kan diskuteres, men denne vejledning kommer med et bud, som bør tilpasses til den konkrete projektudførsel. Se også Open Groups [whitepaper om brug af TOGAF ADM sammen med gængse projektstyringsmetoder](https://publications.opengroup.org/white-papers/togaf/w16b).
+Der tages i afsnittet udgangspunkt i projektmodellen PRINCE2, som de fleste offentlige it-projektmodeller er afarter af – herunder [Statens it-projektmodel](https://arkitektur.digst.dk/node/1057) og flertallet af de kommunale projektmodeller. TOGAF bør dog også kunne tilpasses andre typer projektmodeller. Sammenstillingen af PRINCE2 og TOGAF ADM kan diskuteres, men denne vejledning kommer med et bud, som bør tilpasses til den konkrete projektudførsel. Se også Open Groups [whitepaper om brug af TOGAF ADM sammen med gængse projektstyringsmetoder](https://publications.opengroup.org/white-papers/togaf/w16b).
 
 I FDA [Retningslinjer om arkitekturdokumentation](https://arkitektur.digst.dk/node/563) (afsnittet _Arkitekturprodukter i projektfaser_) beskrives i oversigtform de vigtigste arkitekturprodukter i forhold til hovedfaserne i den statslige it-projektmodel. Som nævnt i denne sammenhæng, bør den konkrete opdeling altid planlægges i kontekst af det enkelte projekt og sættes i forhold til den valgte udviklingsmetode.
 
@@ -283,7 +283,7 @@ For at komme godt i gang med anvendelsen af en arkitekturmetode som TOGAF, er de
 
 Jævnfør [FDA-arkitekturregel 1.5](https://arkitektur.digst.dk/principper-og-regler/princip-1-arkitektur-styres-paa-rette-niveau-efter-faelles-rammer-4), skal det sikres, at digitaliseringsprojekter bemandes med ressourcer, der har tilstrækkelig kompetence og viden til at sikre at arkitekturprodukterne har den kvalitet, som projektet kræver. Ideelt set bør projekterne kunne trække på ekspertkompetencer på en række områder, svarende til [FDA-grundperspektiverne](https://arkitektur.digst.dk/metoder/perspektiver) (fx juridiske, sikkerhedsmæssige, forretningsmæssige og tekniske kompetencer). Det er vigtigt at huske på, at forskellige kompetencer kan være nødvendige på forskellige tidspunkter i et projekts livsforløb. Det er projektets ansvar at planlægge, hvornår der er behov for at trække på de forskellige kompetencer.
 
-Ved identificering og etablering af **arkitekturprincipper**, bør der tages udgangspunkt i de eksisterende [FDA-arkitekturprincipper](https://arkitektur.digst.dk/principper-og-regler) og tilhørende arkitekturregler. Udover FDA-principperne, definerer FDA-referencearkitekturer og retningslinjer typisk en række mere detaljerede principper. Se i relation hertil de [fem principper for it-projekter](https://digst.dk/styring/projektstyring/statens-it-projektmodel/) fra Statens it-projektmodel.
+Ved identificering og etablering af **arkitekturprincipper**, bør der tages udgangspunkt i de eksisterende [FDA-arkitekturprincipper](https://arkitektur.digst.dk/principper-og-regler) og tilhørende arkitekturregler. Udover FDA-principperne, definerer FDA-referencearkitekturer og retningslinjer typisk en række mere detaljerede principper. Se i relation hertil de [fem principper for it-projekter](https://arkitektur.digst.dk/node/1057) fra Statens it-projektmodel.
 
 Ofte vil der desuden skulle identificeres gældende principper i den/de deltagende organisation(er), ligesom der typisk vil blive udarbejdet uddybende og supplerende arkitekturprincipper specifikt i forhold til den enkelte løsning.
 
@@ -336,7 +336,7 @@ Omfanget af arkitekturen bør tilrettelægges på baggrund af det konkrete proje
 
 Til støtte for at scope **målbilledet** kan det være en hjælp at tage udgangspunkt i eksisterende referencemodeller og referencearkitekturer, som fx giver en overblik over opgaver, data og applikationskomponenter, som kan supplere den konkrete lokale viden, og give en fælles terminologi, for det som skal indgå i scope. 
 
-Anvend en passende businesscase-model for udarbejdelse af målarkitekturens **gevinstmodel**. For fællesoffentlige og statslige projekter anbefales det at anvende [gevinstbeskrivelse og business case dokumentation fra Statens it-projektmodel](https://digst.dk/styring/projektstyring/dokumenter-og-vejledninger/), se fx Gevinstdiagrammet, som er en god måde at modellere de overordnede arkitektur- og løsningsbyggeblokke ind i forhold til det samlede gevinstbillede.
+Anvend en passende businesscase-model for udarbejdelse af målarkitekturens **gevinstmodel**. For fællesoffentlige og statslige projekter anbefales det at anvende [gevinstbeskrivelse og business case dokumentation fra Statens it-projektmodel](https://oes.dk/media/kamjloyg/vejledning-til-statens-it-projektmodel.pdf), se fx Gevinstdiagrammet, som er en god måde at modellere de overordnede arkitektur- og løsningsbyggeblokke ind i forhold til det samlede gevinstbillede.
 
 Ved udarbejdelse af risiko- og konsekvensvurdering af de identificerede forretningsrisici, bør der herunder også medtages de lovgivningsmæssige krav i forhold til privatlivets fred (GDPR) og informationssikkerhed.
 
@@ -388,7 +388,7 @@ Som eksempler på [FDA-referencearkitekturer](https://arkitektur.digst.dk/rammea
 
 Der kan desuden være internationale eller nationale referencemodeller inden for en specifik sektor, som også skal tages i betragtning.
 
-Brug [byggeblokkataloget](https://arkitektur.digst.dk/rammearkitektur/arkitekturmodel-og-byggeblokke) til at finde genbrugelige byggeblokke, som potentielt kan inkluderes i projektets arkitekturarbejde. Se desuden [Introduktion til FDA-rammearkitektur](/node/17/) og Vejledning om anvendelse af ArchiMate.
+Brug [byggeblokkataloget](https://arkitektur.digst.dk/rammearkitektur/arkitekturmodel-og-byggeblokke) til at finde genbrugelige byggeblokke, som potentielt kan inkluderes i projektets arkitekturarbejde. Se desuden [Introduktion til FDA-rammearkitektur](https://arkitektur.digst.dk/node/17/) og Vejledning om anvendelse af ArchiMate.
 
 Ved udarbejdelse af begrebslister og -modeller skal [Regler for begrebs- og datamodeller](https://arkitektur.digst.dk/metoder/regler-begrebs-og-datamodellering) overholdes.
 
@@ -404,7 +404,7 @@ Transitionen fra baseline-arkitekturen til **målarkitekturen** kan sandsynligvi
 
 Som eksempel bør der ses på, hvorvidt ændringer i forretningsarkitekturen påvirker den samlede **brugerrejse** ved tværgående processer, så der sikres optimering af processen efter fælles mål.
 
-Sørg for at planlægge et [arkitekturreview](https://arkitektur.digst.dk/arkitekturreviews/vejledning-til-gennemforsel-af-arkitekturreviews) af forretningsarkitekturen. Projektets styregruppe skal behandle reviewrapporten og tager stilling til reviewets anbefalinger.
+Sørg for at planlægge et [arkitekturreview](https://arkitektur.digst.dk/sites/default/fileuploads/561_session_2_saadan_gennemfoeres_arkitekturreviews.pdf) af forretningsarkitekturen. Projektets styregruppe skal behandle reviewrapporten og tager stilling til reviewets anbefalinger.
 
 Projektgrundlaget opdateres endeligt med relevante dele fra arkitekturoverblikket.
 
@@ -461,7 +461,7 @@ Ved specificering af data-byggeblokke, kan der med fordel kigges på to kataloge
 
 Ved specificering af webservices overholdes [Retningslinjer for webservices](https://arkitektur.digst.dk/metoder/retningslinjer-webservices).
 
-Der arbejdes desuden på en [standard for beskrivelse af it-systemer](https://arkitektur.digst.dk/rammearkitektur/standard-beskrivelse-af-it-systemer). Denne vil udover projektets egne formål, bl.a. kunne understøtte porteføljestyring og aflevering til Rigsarkivet.
+Der arbejdes desuden på en [standard for beskrivelse af it-systemer](https://arkitektur.digst.dk/specifikationer/it-system). Denne vil udover projektets egne formål, bl.a. kunne understøtte porteføljestyring og aflevering til Rigsarkivet.
 
 Projektgrundlaget opdateres endeligt med relevante dele fra arkitekturoverblikket, herunder særligt **systemkontekstdiagram**.
 
@@ -513,7 +513,7 @@ Formålet med fasen er at udvikle målarkitekturen med udgangspunkt i FDA-grundp
 
 Aktiviteterne gennemløbes ud fra samme metodik som fase B – forretningsarkitektur og fase C – informationssystemer.
 
-Ved valg af referencemodeller skal de fællesoffentlige tekniske standarder som fx [OIOIDWS](https://www.digitaliser.dk/group/705156) og infrastrukturkomponenter som fx [NemID](https://digst.dk/it-loesninger/nemid/)/[MitID](https://digst.dk/it-loesninger/mitid/) og [NemLog-in](https://digst.dk/it-loesninger/nemlog-in/) ligeledes tages i betragtning.
+Ved valg af referencemodeller skal de fællesoffentlige tekniske standarder som fx [OIOIDWS](https://digst.dk/it-loesninger/standarder/oio-identity-based-web-services-oio-idws/) og infrastrukturkomponenter som fx [MitID](https://digst.dk/it-loesninger/mitid/) og [NemLog-in](https://digst.dk/it-loesninger/nemlog-in/) ligeledes tages i betragtning.
 
 Fase D giver anledning til at se på de non-funktionelle krav i forhold til fx sikkerhed, robusthed, skalerbarhed etc. Det er også i denne fase at overvejelser om cloud vs. on-premise løsninger kan tages.
 
