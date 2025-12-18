@@ -8,7 +8,7 @@ Arkitekturarbejdet har således både til formål at sikre et fornuftigt design 
 
 En væsentlig faktor for succes med arkitekturarbejdet er en klar og indarbejdet metode, som integrerer med de øvrige discipliner i organisationen (projektstyring, drift, it-styring etc.). Det er dog ikke kun metoden, som er vigtig. De overordnede rammer, så som mandat fra ledelsen, de nødvendige ressourcer og styringsrammer, er også centrale forudsætninger, for at arbejdet med arkitektur bliver værdiskabende. Dette gælder naturligvis ikke i mindre grad, når der er tale om samarbejde på tværs af organisationer.
 
-Formålet med denne vejledning er at støtte digitaliseringsprojekter i at anvende den fællesoffentlige digitale arkitektur (FDA) med udgangspunkt i en procesorienteret arkitekturmetode, som kan supplere FDA [Retningslinjer om arkitekturdokumentation](/node/563). Det skal understreges, at denne vejledning alene er udtryk for anbefalinger af god praksis og ikke et formelt krav om at anvende en bestemt arkitekturmetode.
+Formålet med denne vejledning er at støtte digitaliseringsprojekter i at anvende den fællesoffentlige digitale arkitektur (FDA) med udgangspunkt i en procesorienteret arkitekturmetode, som kan supplere FDA [Retningslinjer om arkitekturdokumentation](https://arkitektur.digst.dk/node/563). Det skal understreges, at denne vejledning alene er udtryk for anbefalinger af god praksis og ikke et formelt krav om at anvende en bestemt arkitekturmetode.
 
 Det er op til den enkelte myndighed og det enkelte projekt at vælge og tilpasse den rette metode.
 
@@ -376,7 +376,7 @@ Formålet med fasen er at udvikle målarkitekturen med udgangspunkt i FDA-grundp
 8. Afslutte forretningsarkitekturen
 9. Udarbejde/opdatere samlet arkitekturoverblik
 
-Som overordnet referencemodel for beskrivelse og klassifikation af forretningsopgaver anbefales det at tage udgangspunkt i den fællesoffentlige forretningsreferencemodel [FORM](/node/149). Tag konkret udgangspunkt i taksonomien Opgavenøglen. FORM kan fx anvendes i forbindelse med navngivning eller som metadata på byggeblokke af typerne forretningsservices, forretningsfunktioner og processer. FORM er mappet til den fælleskommunale taksonomi [KLE](http://www.kle-online.dk/emneplan/00/).
+Som overordnet referencemodel for beskrivelse og klassifikation af forretningsopgaver anbefales det at tage udgangspunkt i den fællesoffentlige forretningsreferencemodel [FORM](https://arkitektur.digst.dk/node/149). Tag konkret udgangspunkt i taksonomien Opgavenøglen. FORM kan fx anvendes i forbindelse med navngivning eller som metadata på byggeblokke af typerne forretningsservices, forretningsfunktioner og processer. FORM er mappet til den fælleskommunale taksonomi [KLE](http://www.kle-online.dk/emneplan/00/).
 
 Som udgangspunkt for beskrivelse af løsningens forretningsarkitektur anbefales det at orientere sig i FDA-rammearkitekturen, herunder relevante FDA-referencearkitekturer og byggeblokkataloget, der omfatter alle byggeblokke, som defineres i disse og i den generelle fælleseuropæiske referencearkitektur for interoperabilitet (EIRA).
 
