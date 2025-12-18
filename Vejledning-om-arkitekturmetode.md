@@ -2,7 +2,7 @@
 
 ## Indledning
 
-Arkitektur er en central del af digitalisering. Det gælder både på det brede virksomhedsperspektiv, hvor det gælder om at skabe god og tværgående it-understøttelse af den samlede forretning/forvaltning, og når man ser på det enkelte projekt, hvor det gælder om at skabe en optimal løsning indenfor det konkrete scope.
+Arkitektur er en central del af digitalisering. Det gælder både på det brede virksomhedsperspektiv, hvor det gælder om at skabe god og tværgående it-understøttelse af den samlede forretning/forvaltning, og når man ser på det enkelte projekt, hvor det gælder om at skabe en optimal løsning indenfor det konkrete scope...
 
 Arkitekturarbejdet har således både til formål at sikre et fornuftigt design af en given løsning, samtidig med at det skal sikre sammenhæng til andre relevante løsninger. Dokumentation skal understøtte dialog mellem forretning og it, mellem kunde og leverandør, samt mellem projektets interessenter – og dermed også koordinering på tværs af projekter og løsninger. Desuden skal en del af dokumentationen understøtte den efterfølgende drift, vedligeholdelse og videreudvikling af løsningen.
 
@@ -28,7 +28,7 @@ Denne vejledning er derfor ikke en specificering af en ny FDA-metode, men en vej
 
 ### Målgruppe
 
-Målgruppen for vejledningen er personer, der på forhånd har kendskab til TOGAF eller tilsvarende arkitekturmetode på et niveau, svarende til en _Foundation-_certificering. Den primære målgruppe er personer, som udarbejder og anvender arkitekturdokumentation (fx it-arkitekter). Desuden kan vejledningen med fordel læses af personer, som har ansvar for projektets proces og produkter (projektledere), samt personer som blot skal forstå arkitekturmetoden og de arkitekturprodukter, der skal anvendes i projektet. Sidstnævnte gruppe kan fx være kundens projektdeltagere og leverandørens projektleder og udviklere.
+Målgruppen for vejledningen er personer, der på forhånd har kendskab til TOGAF eller tilsvarende arkitekturmetode på et niveau, svarende til en \_Foundation-\_certificering. Den primære målgruppe er personer, som udarbejder og anvender arkitekturdokumentation (fx it-arkitekter). Desuden kan vejledningen med fordel læses af personer, som har ansvar for projektets proces og produkter (projektledere), samt personer som blot skal forstå arkitekturmetoden og de arkitekturprodukter, der skal anvendes i projektet. Sidstnævnte gruppe kan fx være kundens projektdeltagere og leverandørens projektleder og udviklere.
 
 ### Læsevejledning
 
@@ -36,18 +36,17 @@ Vejledningen udspringer af Hvidbogens arkitekturregler 1.3 om anvendelse af fæl
 
 ![Figur0_Sammenhæng_mellem_tre_af_hvidbogens_arkitekturregler_til_side_og_underordnede_dokumenter.svg](assets/Figur0_Sammenhæng_mellem_tre_af_hvidbogens_arkitekturregler_til_side_og_underordnede_dokumenter.svg)
 
-
 Figur 0: Sammenhæng mellem tre af hvidbogens arkitekturregler til side- og underordnede dokumenter
 
 Vejledningen kan læses helt eller delvist, alt efter behov. Specielt det først kapitel, der sætter TOGAF metoden i sammenhæng med projektmetode og Fællesoffentlig Digitalt Arkitektur, bør læses af alle. Resten af vejledningen er tænkt som et opslagsværk. Væsentligheden af de enkelte afsnit afhænger af den enkelte læser og det aktuelle projekt.
 
 **Kapitlet** **_Kom godt i gang med FDA og TOGAF_** indeholder tre afsnit, som alle skal hjælpe læseren med at komme i gang med at forstå og anvende dele af TOGAF i digitaliseringsprojekter.
 
-* **Afsnittet** **_Om TOGAF_** giver en kort introduktion til de mest centrale elementer i TOGAF. Læseren vil få en hurtig overflyvning, hvor der for en dybere forståelse henvises til TOGAF-specifikationen.
-* **Afsnittet** **_Sammenhæng mellem FDA-arkitekturreolen og TOGAF_** beskriver de grundlæggende sammenhænge mellem FDA og TOGAF, med hensyn til de udvalgte arkitekturprodukter. Læseren vil få en kort forklaring af, hvordan de udvalgte FDA-arkitekturprodukter skal ses i sammenhængen med TOGAF.
-* **Afsnittet** **_Sammenhæng mellem projektstyring og TOGAF_** beskriver sammenhængen mellem styringen af et digitaliseringsprojekt og det relaterede arkitekturarbejde ved anvendelsen af TOGAF. Læseren vil få en kort forklaring på, hvordan man får arkitekturarbejdet efter TOGAF ADM til at passe ind i sin projektmodel.
+-   **Afsnittet** **_Om TOGAF_** giver en kort introduktion til de mest centrale elementer i TOGAF. Læseren vil få en hurtig overflyvning, hvor der for en dybere forståelse henvises til TOGAF-specifikationen.
+-   **Afsnittet** **_Sammenhæng mellem FDA-arkitekturreolen og TOGAF_** beskriver de grundlæggende sammenhænge mellem FDA og TOGAF, med hensyn til de udvalgte arkitekturprodukter. Læseren vil få en kort forklaring af, hvordan de udvalgte FDA-arkitekturprodukter skal ses i sammenhængen med TOGAF.
+-   **Afsnittet** **_Sammenhæng mellem projektstyring og TOGAF_** beskriver sammenhængen mellem styringen af et digitaliseringsprojekt og det relaterede arkitekturarbejde ved anvendelsen af TOGAF. Læseren vil få en kort forklaring på, hvordan man får arkitekturarbejdet efter TOGAF ADM til at passe ind i sin projektmodel.
 
-**Kapitlet** **_Vejledende brug af TOGAF ADM i digitaliseringsprojekter_** giver den erfarne arkitekt en forståelse for, hvilke særlige forhold, som man skal være opmærksom på ved brugen af TOGAF i arkitekturprojekter i en dansk offentlig kontekst. Kapitlets primære afsnit (**_Faser og aktiviteter_****)** gennemgår alle faserne i TOGAF ADM samt giver anbefaling til, hvornår de enkelte udvalgte FDA-arkitekturprodukter skal udarbejdes. Endelig samler afsnittet **_Liste over arkitekturprodukter_** et overblik over relationen mellem de enkelte faser og arkitekturprodukter.
+**Kapitlet** **_Vejledende brug af TOGAF ADM i digitaliseringsprojekter_** giver den erfarne arkitekt en forståelse for, hvilke særlige forhold, som man skal være opmærksom på ved brugen af TOGAF i arkitekturprojekter i en dansk offentlig kontekst. Kapitlets primære afsnit (**_Faser og aktiviteter_\*\***)** gennemgår alle faserne i TOGAF ADM samt giver anbefaling til, hvornår de enkelte udvalgte FDA-arkitekturprodukter skal udarbejdes. Endelig samler afsnittet **_Liste over arkitekturprodukter_\*\* et overblik over relationen mellem de enkelte faser og arkitekturprodukter.
 
 ## Kom godt i gang med FDA og TOGAF
 
@@ -63,17 +62,17 @@ Du kan læse om TOGAF og rammeværkets generelle anvendelse i arkitekturarbejde 
 
 TOGAF-standarden består af fem hovedelementer:
 
-* Arkitekturmetode (ADM)
-* Vejledning og teknikker i forhold til anvendelsen af arkitekturmetoden
-* Arkitektur indholdsrammeværk
-* Kontinuum og værktøjer, inklusive referencemodeller
-* Rammeværk for arkitekturkapabiliteter
+-   Arkitekturmetode (ADM)
+-   Vejledning og teknikker i forhold til anvendelsen af arkitekturmetoden
+-   Arkitektur indholdsrammeværk
+-   Kontinuum og værktøjer, inklusive referencemodeller
+-   Rammeværk for arkitekturkapabiliteter
 
 #### Architecture Development Methods (ADM)
 
 En hel central del af TOGAF er Architecture Development Methods (ADM), som er en arkitekturudviklingsmetode med en trinvis og iterativ tilgang til at udvikle og styre arkitekturarbejdet (Se Figur 1). Det skal understreges, at TOGAF både kan anvendes sammen med projekt- og udviklingsmetoder, der er agile og vandfaldsorienterede – det er altid op til en lokal tilpasning af metodeanvendelsen.
 
-![Figur1.Figur1_TOGAF_Architecture_Development_Method_(ADM).svg](assets/Figur1_TOGAF_Architecture_Development_Method_(ADM).svg)
+![Figur1.Figur1_TOGAF_Architecture_Development_Method_(ADM).svg](<assets/Figur1_TOGAF_Architecture_Development_Method_(ADM).svg>)
 
 Figur 1 TOGAF Architecture Development Method (ADM)
 
@@ -121,9 +120,9 @@ Et indholdselement kan betragtes som en byggeblok, fx en proces, et applikations
 
 TOGAF giver desuden anbefalinger til, hvilke arkitekturprodukter (kaldet artefakter) i relation til _Content Metamodel_, der bør udarbejdes i de forskellige faser af ADM (se Figur 5). TOGAF opdeler arkitekturprodukterne i tre typer:
 
-* Katalog (lister)
-* Matrix (matricer)
-* Diagram (illustrationer)
+-   Katalog (lister)
+-   Matrix (matricer)
+-   Diagram (illustrationer)
 
 Et katalog er en liste over indholdselementer af en bestemt type eller relaterede typer. Det kan for eksempel være en liste over aktuelle roller i projektet eller komponenter i applikationsporteføljen, som er relevant at få dokumenteret.
 
@@ -191,7 +190,7 @@ Efter at have fastlagt forventninger, mål og rammer for projektet, er projektet
 
 Figur 12 Statens it-projektmodel
 
-Der kan laves en overordnet sammenstilling af Statens it-projektmodel og TOGAF ADM, som illustreret i Figur 13. Som nævnt i afsnittet _Architecture Development Methods (ADM)__,_ bør de enkelte ADM-faser og deres aktiviteter ses som temaer, som bør overvejes i et hvert digitaliseringsprojekt. De enkelte fokusområder og aktiviteter skal derfor kobles til de generelle projektaktiviteter, som kræves af den anvendte projektmetode.
+Der kan laves en overordnet sammenstilling af Statens it-projektmodel og TOGAF ADM, som illustreret i Figur 13. Som nævnt i afsnittet _Architecture Development Methods (ADM)\_\_,_ bør de enkelte ADM-faser og deres aktiviteter ses som temaer, som bør overvejes i et hvert digitaliseringsprojekt. De enkelte fokusområder og aktiviteter skal derfor kobles til de generelle projektaktiviteter, som kræves af den anvendte projektmetode.
 
 ![Figur13_Overordnet_sammenstilling_af_Statens_it_projektmodel_og_TOGAF_ADM.svg](assets/Figur13_Overordnet_sammenstilling_af_Statens_it_projektmodel_og_TOGAF_ADM.svg)
 
@@ -213,17 +212,17 @@ En agil tilgang til ADM kan betyde at der inden for de enkelte projektiteratione
 
 #### Sammenfald mellem styringsmetoder
 
-Som nævnt tidligere_,_ er der et overlap mellem TOGAF og andre styringsmetoder. Overlappet betyder, at der er aktiviteter, leverancer og andre begreber, som er sammenfaldende mellem de relaterede styringsmekanismer. Fx nedbrydes et projekt oftest i arbejdspakker, som indeholder oplysninger om en eller flere påkrævede produkter, som en teamleder eller et teammedlem får ansvaret for at udføre. I TOGAF defineres ligeledes arbejdspakker (_Work Package_).
+Som nævnt tidligere*,* er der et overlap mellem TOGAF og andre styringsmetoder. Overlappet betyder, at der er aktiviteter, leverancer og andre begreber, som er sammenfaldende mellem de relaterede styringsmekanismer. Fx nedbrydes et projekt oftest i arbejdspakker, som indeholder oplysninger om en eller flere påkrævede produkter, som en teamleder eller et teammedlem får ansvaret for at udføre. I TOGAF defineres ligeledes arbejdspakker (_Work Package_).
 
-Som nævnt i afsnittet _Indhold og arkitekturprodukter__,_ definerer TOGAF også en række arkitekturleverancedokumenter, som bliver udarbejdet og vedligeholdt gennem ADM-faserne. Der er et vist sammenfald mellem TOGAF-dokumenterne og den øvrige dokumentation, som udarbejdes og vedligeholdes i et projekt (fx projektgrundlag, projektplan, business case mv.).
+Som nævnt i afsnittet _Indhold og arkitekturprodukter\_\_,_ definerer TOGAF også en række arkitekturleverancedokumenter, som bliver udarbejdet og vedligeholdt gennem ADM-faserne. Der er et vist sammenfald mellem TOGAF-dokumenterne og den øvrige dokumentation, som udarbejdes og vedligeholdes i et projekt (fx projektgrundlag, projektplan, business case mv.).
 
 Det er væsentligt at bemærke, at arbejdet med arkitektur i digitaliseringsprojekter ikke skal føre til dobbeltarbejde. Det er derfor vigtigt at aktiviteter og dokumentation i forbindelse med ADM-faserne komplementere de generelle aktiviteter og dokumentation i projektet.
 
 Som eksempler på TOGAF-arkitekturleverancedokumenter kan nævnes:
 
-* **_Request for Architecture Work__:_** Indeholder en anmodning fra sponsororganisationen til arkitekturorganisationen om opstart af arkitekturarbejdet. Dokumentet kan sidestilles med PRINCE2-dokumentet _Project Brief_.
-* **_Architecture Definition Document__:_** Indeholder et samlet billede af de centrale artefakter, der er udarbejdet i løbet af projektet. Dokumentet dækker alle arkitekturdomænerne _Business_, _Data_, _Application_ og _Technology_, svarende til FDA-grundperspektiverne Opgaver, _Information,_ _Applikation_ og _Infrastruktur_, og dækker tidsspændet fra baseline-arkitektur til målarkitektur, inkl. eventuelle mellemliggende transitionsarkitekture. Dokumentet kan til en vis grad sidestilles med PRINCE2-dokumentet _Project Product Description_.
-* **_Statement of Architecture Work:_** Definerer omfanget og tilgangen, som vil blive brugt til at gennemføre projektet. Dokumentet beskriver projektet og dets omfang, arkitekturvisionen, roller/ansvar, leverancer, projektplan mv. Dokumentet kan sidestilles med PRINCE2-dokumentet _Project Initiating Document (PID)_.
+-   **_Request for Architecture Work\_\_:_** Indeholder en anmodning fra sponsororganisationen til arkitekturorganisationen om opstart af arkitekturarbejdet. Dokumentet kan sidestilles med PRINCE2-dokumentet _Project Brief_.
+-   **_Architecture Definition Document\_\_:_** Indeholder et samlet billede af de centrale artefakter, der er udarbejdet i løbet af projektet. Dokumentet dækker alle arkitekturdomænerne _Business_, _Data_, _Application_ og _Technology_, svarende til FDA-grundperspektiverne Opgaver, _Information,_ _Applikation_ og _Infrastruktur_, og dækker tidsspændet fra baseline-arkitektur til målarkitektur, inkl. eventuelle mellemliggende transitionsarkitekture. Dokumentet kan til en vis grad sidestilles med PRINCE2-dokumentet _Project Product Description_.
+-   **_Statement of Architecture Work:_** Definerer omfanget og tilgangen, som vil blive brugt til at gennemføre projektet. Dokumentet beskriver projektet og dets omfang, arkitekturvisionen, roller/ansvar, leverancer, projektplan mv. Dokumentet kan sidestilles med PRINCE2-dokumentet _Project Initiating Document (PID)_.
 
 En liste over alle TOGAF-arkitekturleverancedokumenter, samt hvilke ADM-faser de er henholdsvis input og/eller output, kan findes i TOGAF-specifikationen ([http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap32.html](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap32.html)).
 
@@ -237,7 +236,7 @@ For en mere udførlige beskrivelse af anvendelsen af projektmetoder til gennemf�
 
 Med udgangspunkt i TOGAF ADM, beskriver dette kapitel hvornår der arbejdes med hvilke FDA-arkitekturprodukter. Desuden giver kapitlet eksempler på, hvor man skal forholde sig til de forskellige elementer i FDA, som fx referencearkitekturer, modelregler, integrationsmønstre, tekniske protokoller og andre standarder, fællesoffentlige it-services mv.
 
-Det skal bemærkes, at selvom TOGAF forholder sig til arkitektur i en større kontekst, fokuserer dette kapitel primært på arkitektur, som håndteres inden for konkrete løsningsprojekter. Der kan derfor være beskrivelser i nærværende kapitel, som supplerer de generelle TOGAF-anbefalinger. 
+Det skal bemærkes, at selvom TOGAF forholder sig til arkitektur i en større kontekst, fokuserer dette kapitel primært på arkitektur, som håndteres inden for konkrete løsningsprojekter. Der kan derfor være beskrivelser i nærværende kapitel, som supplerer de generelle TOGAF-anbefalinger.
 
 ### Faser og aktiviteter
 
@@ -245,11 +244,11 @@ Dette afsnit beskriver FDA-anbefalinger til aktiviteterne i de forskellige faser
 
 Hver fase er beskrevet efter følgende skabelon:
 
-* Fasenavn
-* Kort beskrivelse af formål med fasen
-* Oversigt over aktiviteter i fasen
-* Gennemgang af de væsentligste aktiviteter i forhold til FDA
-* Udvalgte FDA-arkitekturprodukter ved afslutning af fasen
+-   Fasenavn
+-   Kort beskrivelse af formål med fasen
+-   Oversigt over aktiviteter i fasen
+-   Gennemgang af de væsentligste aktiviteter i forhold til FDA
+-   Udvalgte FDA-arkitekturprodukter ved afslutning af fasen
 
 Udvalgte arkitekturprodukter er i det følgende angivet således: **Arkitekturprodukt**
 
@@ -263,8 +262,8 @@ Formålet med den præliminære fase er at forberede og igangsætte de nødvendi
 
 Ifølge TOGAF gennemføres den præliminære fase ideelt set kun én gang for alle fremtidige projekter. Hvert projekt starter således i fase A. I praksis sker det både iterativt og i mange forskellige, overlappende domænekontekster. Fx fællesoffentligt domæne (FODS/FDA), fælleskommunalt, i sundhedsdomænet, i skatteministeriet osv. jf. [hvidbogens](https://arkitektur.digst.dk/mandat-og-styring/hvidbog-om-faellesoffentlig-digital-arkitektur) arkitekturprincip _Arkitektur styres på rette niveau efter fælles rammer_.
 
-* Et projekt bør altid starte med at afklare sin kontekst og metode i initieringsfasen
-* I tværoffentlige projekter er der tale om tilpasning til en tværorganisatorisk kontekst
+-   Et projekt bør altid starte med at afklare sin kontekst og metode i initieringsfasen
+-   I tværoffentlige projekter er der tale om tilpasning til en tværorganisatorisk kontekst
 
 ### Aktiviteter i fasen:
 
@@ -291,10 +290,10 @@ Ofte vil der desuden skulle identificeres gældende principper i den/de deltagen
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
-* **Governancemodel**
-* **Interessentanalyse**
-* **Metodeanvendelse**
-* **Arkitekturprincipper**
+-   **Governancemodel**
+-   **Interessentanalyse**
+-   **Metodeanvendelse**
+-   **Arkitekturprincipper**
 
 #### Fase A: Arkitekturvision
 
@@ -334,7 +333,7 @@ Ved identificering af forretningskrav aktiveres ADM fasen kravstyring, som beskr
 
 Omfanget af arkitekturen bør tilrettelægges på baggrund af det konkrete projektmandat. For digitaliseringsprojekter med tværgående scope, bør der dog være særligt fokus på forretnings- og informationsdomænerne, da tværgående processer og informationsudveksling er væsentligt i disse typer projekter.
 
-Til støtte for at scope **målbilledet** kan det være en hjælp at tage udgangspunkt i eksisterende referencemodeller og referencearkitekturer, som fx giver en overblik over opgaver, data og applikationskomponenter, som kan supplere den konkrete lokale viden, og give en fælles terminologi, for det som skal indgå i scope. 
+Til støtte for at scope **målbilledet** kan det være en hjælp at tage udgangspunkt i eksisterende referencemodeller og referencearkitekturer, som fx giver en overblik over opgaver, data og applikationskomponenter, som kan supplere den konkrete lokale viden, og give en fælles terminologi, for det som skal indgå i scope.
 
 Anvend en passende businesscase-model for udarbejdelse af målarkitekturens **gevinstmodel**. For fællesoffentlige og statslige projekter anbefales det at anvende [gevinstbeskrivelse og business case dokumentation fra Statens it-projektmodel](https://oes.dk/media/kamjloyg/vejledning-til-statens-it-projektmodel.pdf), se fx Gevinstdiagrammet, som er en god måde at modellere de overordnede arkitektur- og løsningsbyggeblokke ind i forhold til det samlede gevinstbillede.
 
@@ -346,15 +345,15 @@ Endelig samles alle relevante dele, som minimum **vision/målbillede**, som inpu
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
-* **Interessentanalyse** _opdateres_
-* **Forretningsmål**
-* **Gevinstmodel**
-* **Vision / Målbillede**
-* **Strategiske kapabiliteter**
-* **Udfordringer (SWOT)**
-* **Arkitekturprincipper** **_opdateres_**
-* **Sikkerhedsstrategi / mønstre**
-* **Trussels- og risikokatalog**
+-   **Interessentanalyse** _opdateres_
+-   **Forretningsmål**
+-   **Gevinstmodel**
+-   **Vision / Målbillede**
+-   **Strategiske kapabiliteter**
+-   **Udfordringer (SWOT)**
+-   **Arkitekturprincipper** **_opdateres_**
+-   **Sikkerhedsstrategi / mønstre**
+-   **Trussels- og risikokatalog**
 
 #### Fase B: Forretningsarkitektur
 
@@ -382,9 +381,9 @@ Som udgangspunkt for beskrivelse af løsningens forretningsarkitektur anbefales 
 
 Som eksempler på [FDA-referencearkitekturer](https://arkitektur.digst.dk/rammearkitektur/referencearkitekturer) kan nævnes:
 
-* Referencearkitektur for brugerstyring
-* Referencearkitektur for selvbetjening
-* Referencearkitektur for deling af data og dokumenter
+-   Referencearkitektur for brugerstyring
+-   Referencearkitektur for selvbetjening
+-   Referencearkitektur for deling af data og dokumenter
 
 Der kan desuden være internationale eller nationale referencemodeller inden for en specifik sektor, som også skal tages i betragtning.
 
@@ -412,24 +411,24 @@ Projektgrundlaget opdateres endeligt med relevante dele fra arkitekturoverblikke
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
-* **Metodeanvendelse** **_opdateres_**
-* **Strategiske kapabiliteter** **_opdateres_**
-* **Målarkitektur-resumé**
-* **Juridiske bindinger**
-* **Serviceaftale (SLA)**
-* **Sikkerhedsmodel**
-* **Sikkerhedskontroller**
-* **Opgave- / servicekatalog**
-* **Proceslandskab**
-* **Domænemodel**
-* **Procesmodel**
-* **Aktør / roller**
-* **Brugerrejse**
-* **Servicemodel**
-* **Arbejdsgang / -beskrivelse**
-* **Centrale forretningsobjekter**
-* **Begrebsliste / -model**
-* **Testscenarier**
+-   **Metodeanvendelse** **_opdateres_**
+-   **Strategiske kapabiliteter** **_opdateres_**
+-   **Målarkitektur-resumé**
+-   **Juridiske bindinger**
+-   **Serviceaftale (SLA)**
+-   **Sikkerhedsmodel**
+-   **Sikkerhedskontroller**
+-   **Opgave- / servicekatalog**
+-   **Proceslandskab**
+-   **Domænemodel**
+-   **Procesmodel**
+-   **Aktør / roller**
+-   **Brugerrejse**
+-   **Servicemodel**
+-   **Arbejdsgang / -beskrivelse**
+-   **Centrale forretningsobjekter**
+-   **Begrebsliste / -model**
+-   **Testscenarier**
 
 #### Fase C: Informationssystemarkitektur (data & applikationer)
 
@@ -469,27 +468,27 @@ Projektgrundlaget opdateres endeligt med relevante dele fra arkitekturoverblikke
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
-* **Metodeanvendelse** **_opdateres_**
-* **Målarkitektur-resumé** _opdateres_
-* **Databehandleraftaler**
-* **Sikkerhedsmodel** _opdateres_
-* **Sikkerhedskontroller** _opdateres_
-* **Centrale forretningsobjekter** **_opdateres_**
-* **Begrebsliste / -model** _opdateres_
-* **Informationsmodel**
-* **Logisk datamodel**
-* **Masterdata**
-* **Datakvalitet**
-* **Datasæt**
-* **Dataudvekslingsformat**
-* **Systemlandskab / kontekstdiagram**
-* **Applikationslandskab +/- integrationer**
-* **Applikationer mappet til forretning**
-* **Applikation mappet til information**
-* **Applikationsdesign**
-* **Løsningskomponent**
-* **Snitfladebeskrivelser**
-* **Testscenarier** _opdateres_
+-   **Metodeanvendelse** **_opdateres_**
+-   **Målarkitektur-resumé** _opdateres_
+-   **Databehandleraftaler**
+-   **Sikkerhedsmodel** _opdateres_
+-   **Sikkerhedskontroller** _opdateres_
+-   **Centrale forretningsobjekter** **_opdateres_**
+-   **Begrebsliste / -model** _opdateres_
+-   **Informationsmodel**
+-   **Logisk datamodel**
+-   **Masterdata**
+-   **Datakvalitet**
+-   **Datasæt**
+-   **Dataudvekslingsformat**
+-   **Systemlandskab / kontekstdiagram**
+-   **Applikationslandskab +/- integrationer**
+-   **Applikationer mappet til forretning**
+-   **Applikation mappet til information**
+-   **Applikationsdesign**
+-   **Løsningskomponent**
+-   **Snitfladebeskrivelser**
+-   **Testscenarier** _opdateres_
 
 #### Fase D: Teknologiarkitektur
 
@@ -523,14 +522,14 @@ Projektgrundlaget opdateres endeligt med relevante dele fra arkitekturoverblikke
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
-* **Metodeanvendelse** **_opdateres_**
-* **Målarkitektur-resumé** _opdateres_
-* **Sikkerhedsstrategi / mønstre** _opdateres_
-* **Sikkerhedsmodel** _opdateres_
-* **Sikkerhedskontroller** _opdateres_
-* **Infrastrukturkoncept og mønstre**
-* **Infrastrukturlandskab**
-* **Infrastrukturopsætning**
+-   **Metodeanvendelse** **_opdateres_**
+-   **Målarkitektur-resumé** _opdateres_
+-   **Sikkerhedsstrategi / mønstre** _opdateres_
+-   **Sikkerhedsmodel** _opdateres_
+-   **Sikkerhedskontroller** _opdateres_
+-   **Infrastrukturkoncept og mønstre**
+-   **Infrastrukturlandskab**
+-   **Infrastrukturopsætning**
 
 #### Fase E: Muligheder & løsninger
 
@@ -560,10 +559,10 @@ Der er ingen særlige FDA-vejledninger for aktiviteter i denne fase.
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
-* **Gevinstmodel** _opdateres_
-* **Deployment-/stagingplan**
-* **Migreringsstrategi**
-* **Løsningsarkitektur -resumé**
+-   **Gevinstmodel** _opdateres_
+-   **Deployment-/stagingplan**
+-   **Migreringsstrategi**
+-   **Løsningsarkitektur -resumé**
 
 #### Fase F: Migreringsplanlægning
 
@@ -589,11 +588,11 @@ Der er ingen særlige FDA-vejledning for aktiviteter i denne fase.
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
-* **Kvalitetsplan**
-* **Gevinstmodel** _opdateres_
-* **Deployment-/stagingplan** _opdateres_
-* **Migreringsstrategi** _opdateres_
-* **Løsningsarkitektur -resumé** _opdateres_
+-   **Kvalitetsplan**
+-   **Gevinstmodel** _opdateres_
+-   **Deployment-/stagingplan** _opdateres_
+-   **Migreringsstrategi** _opdateres_
+-   **Løsningsarkitektur -resumé** _opdateres_
 
 ![Fase G: Implementeringsstyring](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/g_gov.gif)
 
@@ -618,10 +617,10 @@ I regi af den fællesoffentlige digitaliseringsstrategi 2016-2020 er Digitaliser
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
-* **Governancemodel** _opdateres_
-* **Deployment-/stagingplan** _opdateres_
-* **Arkitekturcompliance**
-* **Løsningsarkitektur -resumé** _opdateres_ 
+-   **Governancemodel** _opdateres_
+-   **Deployment-/stagingplan** _opdateres_
+-   **Arkitekturcompliance**
+-   **Løsningsarkitektur -resumé** _opdateres_
 
 #### Fase H: Arkitekturændringsstyring
 
@@ -649,10 +648,10 @@ Anvendelse af en DevOps-metode er særligt relevant for denne fase, da DevOps ha
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
-* **Gevinstmodel** _opdateres_
-* **Ændringsanmodningslog**
-* **Løsningsarkitektur -resumé** _opdateres_
-* **Serviceaftale (SLA)** _opdateres_
+-   **Gevinstmodel** _opdateres_
+-   **Ændringsanmodningslog**
+-   **Løsningsarkitektur -resumé** _opdateres_
+-   **Serviceaftale (SLA)** _opdateres_
 
 #### Arkitekturkravstyring
 
@@ -666,10 +665,10 @@ Arkitekturkravstyring er det centrale omdrejningspunkt i TOGAF arkitekturudvikli
 
 Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne proces:
 
-* **Arkitekturbeslutningslog**
-* **Udfordringer**
-* **Juridiske bindinger**
-* **Krav (samling)**
+-   **Arkitekturbeslutningslog**
+-   **Udfordringer**
+-   **Juridiske bindinger**
+-   **Krav (samling)**
 
 ### Liste over arkitekturprodukter mappet til ADM-faser
 
@@ -679,7 +678,7 @@ Som nævnt indledningsvist, sker udviklingen af arkitekturprodukter i en iterati
 
 De angivne faser i Tabel 2 er derfor ikke eksklusive, men er de faser, hvor det vil være naturligt at starte udviklingen af det givne arkitekturprodukt. Nogle produkter strækker sig over flere faser, og afhænger af den konkrete tilgang til arkitekturmetoden.
 
-|     |     |
+| | |
 | --- | --- |Tabel 2 Udvikling af arkitekturprodukter i TOGAF ADM-faserne
 | TOGAF ADM-fase | FDA-arkitekturprodukt |
 | --- | --- |
