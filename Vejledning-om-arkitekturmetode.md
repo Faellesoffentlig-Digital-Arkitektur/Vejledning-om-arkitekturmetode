@@ -157,7 +157,7 @@ Figur 8 Sammenhæng mellem TOGAF-artefakter og FDA -arkitekturprodukter
 
 TOGAF kategoriserer, som nævnt i forrige kapitel, de enkelte arkitekturprodukter efter ADM-faserne på baggrund af, hvilken fase produktet primært bliver udarbejdet. På samme vis kan FDA-arkitekturreolens udvalgte produkter kategoriseres efter TOGAF ADM-faserne – se Tabel 2 på side 41. Der er således en sammenhæng mellem FDA-arkitekturreolens udvalgte produkter og de forskellige faser i TOGAF ADM. Figur 9 illustrerer sammenhængen mellem FDA-arkitekturreolens produkter og TOGAF ADM.
 
-![Figur9.png](assets/Figur9.png)
+![Figur9.svg](assets/Figur9.svg)
 
 Figur 9 Sammenhæng mellem FDA-arkitekturreolens produkter og TOGAF ADM
 
