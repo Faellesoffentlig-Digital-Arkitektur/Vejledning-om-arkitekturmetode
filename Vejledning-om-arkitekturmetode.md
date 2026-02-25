@@ -255,7 +255,7 @@ Udvalgte arkitekturprodukter er i det følgende angivet således: **Arkitekturpr
 
 #### Præliminære fase
 
-![Præliminære fase](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/prelim.gif)
+![Præliminære fase](assets/Prelim.svg)
 
 Præliminære fase
 
@@ -298,7 +298,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
 #### Fase A: Arkitekturvision
 
-![Fase A: Arkitekturvision](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/a_vis.gif)
+![Fase A: Arkitekturvision](assets/FaseA.svg)
 
 Fase A: Arkitekturvision
 
@@ -358,7 +358,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
 #### Fase B: Forretningsarkitektur
 
-![Fase B: Forretningsarkitektur](http://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/b_bus.gif)
+![Fase B: Forretningsarkitektur](assets/FaseB.svg)
 
 Fase B: Forretningsarkitektur
 
@@ -433,7 +433,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
 #### Fase C: Informationssystemarkitektur (data & applikationer)
 
-![image019](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/c_inf.gif)
+![Fase C: Informationssystemarkitektur](assets/FaseC.svg)
 
 Fase C: Informationssystemarkitektur (data & applikationer)
 
@@ -493,7 +493,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
 #### Fase D: Teknologiarkitektur
 
-![Fase D: Teknologiarkitektur](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/d_tech.gif)
+![Fase D: Teknologiarkitektur](assets/FaseD.svg)
 
 Fase D: Teknologiarkitektur
 
@@ -534,7 +534,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
 #### Fase E: Muligheder & løsninger
 
-![Fase E: Muligheder & løsninger](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/e_opp.gif)
+![Fase E: Muligheder & løsninger](assets/FaseE.svg)
 
 Fase E: Muligheder & løsninger
 
@@ -567,7 +567,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
 #### Fase F: Migreringsplanlægning
 
-![Fase F: Migreringsplanlægning](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/f_mig.gif)
+![Fase F: Migreringsplanlægning](assets/FaseF.svg)
 
 Fase F: Migreringsplanlægning
 
@@ -595,7 +595,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 * **Migreringsstrategi** _opdateres_
 * **Løsningsarkitektur -resumé** _opdateres_
 
-![Fase G: Implementeringsstyring](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/g_gov.gif)
+![Fase G: Implementeringsstyring](assets/FaseG.svg)
 
 Fase G: Implementeringsstyring
 
@@ -625,7 +625,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
 #### Fase H: Arkitekturændringsstyring
 
-![Fase H: Arkitekturændringsstyring](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/h_cha.gif)
+![Fase H: Arkitekturændringsstyring](assets/FaseH.svg)
 
 Fase H: Arkitekturændringsstyring
 
