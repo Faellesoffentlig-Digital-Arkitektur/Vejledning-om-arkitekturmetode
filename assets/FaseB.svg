@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
-   sodipodi:docname="FaseA.svg"
+   sodipodi:docname="FaseB.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,8 +25,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.4770342"
-     inkscape:cx="366.95155"
-     inkscape:cy="464.10569"
+     inkscape:cx="408.92757"
+     inkscape:cy="642.16523"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -219,17 +219,6 @@
        r="89.336327" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient8"
-       id="radialGradient1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.24487949,0,0,0.24490834,41.720427,22.952615)"
-       cx="258.57144"
-       cy="349.50504"
-       fx="258.57144"
-       fy="349.50504"
-       r="96.464287" />
-    <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient11"
        id="radialGradient5"
        gradientUnits="userSpaceOnUse"
@@ -252,6 +241,47 @@
        inkscape:collect="always"
        xlink:href="#linearGradient11"
        id="radialGradient7"
+       gradientUnits="userSpaceOnUse"
+       cx="368.57141"
+       cy="372.36218"
+       fx="368.57141"
+       fy="372.36218"
+       r="89.336327" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8"
+       id="radialGradient8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.24487949,0,0,0.24490834,92.772901,43.373605)"
+       cx="258.57144"
+       cy="349.50504"
+       fx="258.57144"
+       fy="349.50504"
+       r="96.464287" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="radialGradient9"
+       gradientUnits="userSpaceOnUse"
+       cx="368.57141"
+       cy="372.36218"
+       fx="368.57141"
+       fy="372.36218"
+       r="89.336327" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="radialGradient10"
+       gradientUnits="userSpaceOnUse"
+       cx="368.57141"
+       cy="372.36218"
+       fx="368.57141"
+       fy="372.36218"
+       r="89.336327" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11"
+       id="radialGradient11"
        gradientUnits="userSpaceOnUse"
        cx="368.57141"
        cy="372.36218"
@@ -310,18 +340,8 @@
            sodipodi:role="line"
            x="368.96887"
            y="353.79324"
-           style="font-weight:bold;font-size:22px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:Sans;fill:url(#radialGradient14)"
-           id="tspan11">A.</tspan><tspan
-           sodipodi:role="line"
-           x="368.96887"
-           y="380.19324"
            style="font-weight:normal;font-size:22px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:Sans;fill:url(#radialGradient14)"
-           id="tspan12">Architecture</tspan><tspan
-           sodipodi:role="line"
-           x="368.96887"
-           y="406.59323"
-           style="font-weight:normal;font-size:22px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:Sans;fill:url(#radialGradient14)"
-           id="tspan13">Vision</tspan></text>
+           id="tspan13" /></text>
     </g>
     <g
        id="g4"
@@ -345,16 +365,16 @@
            style="font-weight:normal;font-size:22px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:Sans;fill:url(#radialGradient6);fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="tspan2" /></text>
     </g>
+    <circle
+       style="opacity:0.831858;fill:url(#radialGradient8);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle8"
+       cx="156.09174"
+       cy="128.97031"
+       r="23.438465" />
     <g
        id="g65"
        transform="matrix(0.26458333,0,0,0.26458333,58.548191,30.337664)"
        style="opacity:0.831858;fill:url(#radialGradient4);fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
-      <circle
-         style="opacity:0.831858;fill:url(#radialGradient4);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="circle63"
-         cx="368.57141"
-         cy="372.36218"
-         r="88.586327" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:bold;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#radialGradient4);fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -560,12 +580,28 @@
          y="56.68264"
          style="font-weight:normal;font-size:5.82083px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:Sans;stroke-width:0.264583"
          id="tspan80">Principles</tspan></text>
-    <circle
-       style="opacity:0.831858;fill:url(#radialGradient1);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.396875;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="circle1"
-       cx="105.03926"
-       cy="108.54932"
-       r="23.438465" />
+    <g
+       id="g9"
+       transform="matrix(0.26458333,0,0,0.26458333,7.6930233,10.179619)"
+       style="opacity:0.831858;fill:url(#radialGradient11);fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <circle
+         style="opacity:0.831858;fill:url(#radialGradient9);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle9"
+         cx="368.57141"
+         cy="372.36218"
+         r="88.586327" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:bold;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:url(#radialGradient10);fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="368.96887"
+         y="353.79324"
+         id="text9"><tspan
+           sodipodi:role="line"
+           x="368.96887"
+           y="353.79324"
+           style="font-weight:normal;font-size:22px;line-height:1.2;font-family:sans-serif;-inkscape-font-specification:Sans;fill:url(#radialGradient10);fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="tspan9" /></text>
+    </g>
     <g
        id="g83"
        transform="matrix(0.26458333,0,0,0.26458333,7.5214165,10.115939)"
