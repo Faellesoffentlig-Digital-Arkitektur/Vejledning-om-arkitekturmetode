@@ -656,7 +656,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
 #### Arkitekturkravstyring
 
-![Arkitekturkravstyring]((assets/Arkitekturkravstyring.svg))
+![Arkitekturkravstyring](assets/Arkitekturkravstyring.svg)
 
 Arkitekturkravstyring
 
