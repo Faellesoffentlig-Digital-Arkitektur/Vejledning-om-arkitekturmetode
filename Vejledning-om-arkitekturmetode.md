@@ -656,7 +656,7 @@ Følgende udvalgte arkitekturprodukter ud-/bearbejdes i denne fase:
 
 #### Arkitekturkravstyring
 
-![Arkitekturkravstyring](https://pubs.opengroup.org/architecture/togaf8-doc/arch/Figures/req_mgt.gif)
+![Arkitekturkravstyring]((assets/Arkitekturkravstyring.svg))
 
 Arkitekturkravstyring
 
