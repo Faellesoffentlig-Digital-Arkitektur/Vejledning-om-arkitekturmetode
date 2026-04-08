@@ -679,8 +679,8 @@ Som nævnt indledningsvist, sker udviklingen af arkitekturprodukter i en iterati
 
 De angivne faser i Tabel 2 er derfor ikke eksklusive, men er de faser, hvor det vil være naturligt at starte udviklingen af det givne arkitekturprodukt. Nogle produkter strækker sig over flere faser, og afhænger af den konkrete tilgang til arkitekturmetoden.
 
-|     |     |
-| --- | --- |Tabel 2 Udvikling af arkitekturprodukter i TOGAF ADM-faserne
+Tabel 2 Udvikling af arkitekturprodukter i TOGAF ADM-faserne
+
 | TOGAF ADM-fase | FDA-arkitekturprodukt |
 | --- | --- |
 | Præliminære fase, samt fase A | Interessentanalyse |
