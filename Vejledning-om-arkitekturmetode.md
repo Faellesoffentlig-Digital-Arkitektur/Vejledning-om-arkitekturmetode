@@ -744,10 +744,10 @@ For anbefalinger til hvilke arkitekturleverancer der bør udarbejdes i hvilke fa
 
 TOGAF-artefakter relateret til ADM
 
-![Figur 26 B2.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-arkitekturmetode\assets\Figur%2026%20B2.png)
+![Figur 26 B2.png](assets/Figur26_B2.png)
 
 Udvalgte FDA-arkitekturprodukter i arkitekturreolen
 
-![Figur 27 B3.png](C:\Users\B339605\Documents\GitHub\Vejledning-om-arkitekturmetode\assets\Figur%2027%20B3.png)
+![Figur 27 B3.png](assets/Figur27_B3.png)
 
 Eksempel på sammenhæng mellem aktiviteter i Statens it-projektmodel og TOGAF ADM
