@@ -191,7 +191,7 @@ Efter at have fastlagt forventninger, mål og rammer for projektet, er projektet
 
 Figur 12 Statens it-projektmodel
 
-Der kan laves en overordnet sammenstilling af Statens it-projektmodel og TOGAF ADM, som illustreret i Figur 13. Som nævnt i afsnittet _Architecture Development Methods (ADM)__,_ bør de enkelte ADM-faser og deres aktiviteter ses som temaer, som bør overvejes i et hvert digitaliseringsprojekt. De enkelte fokusområder og aktiviteter skal derfor kobles til de generelle projektaktiviteter, som kræves af den anvendte projektmetode.
+Der kan laves en overordnet sammenstilling af Statens it-projektmodel og TOGAF ADM, som illustreret i Figur 13. Som nævnt i afsnittet _Architecture Development Methods (ADM)_, bør de enkelte ADM-faser og deres aktiviteter ses som temaer, som bør overvejes i et hvert digitaliseringsprojekt. De enkelte fokusområder og aktiviteter skal derfor kobles til de generelle projektaktiviteter, som kræves af den anvendte projektmetode.
 
 ![Figur13_Overordnet_sammenstilling_af_Statens_it_projektmodel_og_TOGAF_ADM.svg](assets/Figur13_Overordnet_sammenstilling_af_Statens_it_projektmodel_og_TOGAF_ADM.svg)
 
@@ -221,8 +221,8 @@ Det er væsentligt at bemærke, at arbejdet med arkitektur i digitaliseringsproj
 
 Som eksempler på TOGAF-arkitekturleverancedokumenter kan nævnes:
 
-* **_Request for Architecture Work__:_** Indeholder en anmodning fra sponsororganisationen til arkitekturorganisationen om opstart af arkitekturarbejdet. Dokumentet kan sidestilles med PRINCE2-dokumentet _Project Brief_.
-* **_Architecture Definition Document__:_** Indeholder et samlet billede af de centrale artefakter, der er udarbejdet i løbet af projektet. Dokumentet dækker alle arkitekturdomænerne _Business_, _Data_, _Application_ og _Technology_, svarende til FDA-grundperspektiverne Opgaver, _Information,_ _Applikation_ og _Infrastruktur_, og dækker tidsspændet fra baseline-arkitektur til målarkitektur, inkl. eventuelle mellemliggende transitionsarkitekture. Dokumentet kan til en vis grad sidestilles med PRINCE2-dokumentet _Project Product Description_.
+* **_Request for Architecture Work:_** Indeholder en anmodning fra sponsororganisationen til arkitekturorganisationen om opstart af arkitekturarbejdet. Dokumentet kan sidestilles med PRINCE2-dokumentet _Project Brief_.
+* **_Architecture Definition Document:_** Indeholder et samlet billede af de centrale artefakter, der er udarbejdet i løbet af projektet. Dokumentet dækker alle arkitekturdomænerne _Business_, _Data_, _Application_ og _Technology_, svarende til FDA-grundperspektiverne Opgaver, _Information,_ _Applikation_ og _Infrastruktur_, og dækker tidsspændet fra baseline-arkitektur til målarkitektur, inkl. eventuelle mellemliggende transitionsarkitekture. Dokumentet kan til en vis grad sidestilles med PRINCE2-dokumentet _Project Product Description_.
 * **_Statement of Architecture Work:_** Definerer omfanget og tilgangen, som vil blive brugt til at gennemføre projektet. Dokumentet beskriver projektet og dets omfang, arkitekturvisionen, roller/ansvar, leverancer, projektplan mv. Dokumentet kan sidestilles med PRINCE2-dokumentet _Project Initiating Document (PID)_.
 
 En liste over alle TOGAF-arkitekturleverancedokumenter, samt hvilke ADM-faser de er henholdsvis input og/eller output, kan findes i TOGAF-specifikationen ([http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap32.html](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap32.html)).
