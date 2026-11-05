@@ -213,9 +213,9 @@ En agil tilgang til ADM kan betyde at der inden for de enkelte projektiteratione
 
 #### Sammenfald mellem styringsmetoder
 
-Som nævnt tidligere_,_ er der et overlap mellem TOGAF og andre styringsmetoder. Overlappet betyder, at der er aktiviteter, leverancer og andre begreber, som er sammenfaldende mellem de relaterede styringsmekanismer. Fx nedbrydes et projekt oftest i arbejdspakker, som indeholder oplysninger om en eller flere påkrævede produkter, som en teamleder eller et teammedlem får ansvaret for at udføre. I TOGAF defineres ligeledes arbejdspakker (_Work Package_).
+Som nævnt tidligere, er der et overlap mellem TOGAF og andre styringsmetoder. Overlappet betyder, at der er aktiviteter, leverancer og andre begreber, som er sammenfaldende mellem de relaterede styringsmekanismer. Fx nedbrydes et projekt oftest i arbejdspakker, som indeholder oplysninger om en eller flere påkrævede produkter, som en teamleder eller et teammedlem får ansvaret for at udføre. I TOGAF defineres ligeledes arbejdspakker (_Work Package_).
 
-Som nævnt i afsnittet _Indhold og arkitekturprodukter__,_ definerer TOGAF også en række arkitekturleverancedokumenter, som bliver udarbejdet og vedligeholdt gennem ADM-faserne. Der er et vist sammenfald mellem TOGAF-dokumenterne og den øvrige dokumentation, som udarbejdes og vedligeholdes i et projekt (fx projektgrundlag, projektplan, business case mv.).
+Som nævnt i afsnittet _Indhold og arkitekturprodukter_, definerer TOGAF også en række arkitekturleverancedokumenter, som bliver udarbejdet og vedligeholdt gennem ADM-faserne. Der er et vist sammenfald mellem TOGAF-dokumenterne og den øvrige dokumentation, som udarbejdes og vedligeholdes i et projekt (fx projektgrundlag, projektplan, business case mv.).
 
 Det er væsentligt at bemærke, at arbejdet med arkitektur i digitaliseringsprojekter ikke skal føre til dobbeltarbejde. Det er derfor vigtigt at aktiviteter og dokumentation i forbindelse med ADM-faserne komplementere de generelle aktiviteter og dokumentation i projektet.
 
